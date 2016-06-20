@@ -56,6 +56,7 @@ namespace UnityStandardAssets.Utility
         public void Stop()
         {
             // stops the particle system early
+			print("stop");
             m_EarlyStop = true;
         }
     }

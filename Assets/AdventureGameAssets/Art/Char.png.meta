@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 92b2aed504c939745a9c495fab1c535f
-timeCreated: 1466121534
+timeCreated: 1466436574
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -61,19 +61,19 @@ TextureImporter:
         y: 14
         width: 75
         height: 106
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.53434426, y: 0.043503076}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -1.5, y: 53}
-        - {x: -20.5, y: 53}
-        - {x: -37.5, y: 31}
-        - {x: -37.5, y: -31}
-        - {x: -27.5, y: -53}
-        - {x: 32.5, y: -53}
-        - {x: 37.5, y: -50}
-        - {x: 37.5, y: 14}
-        - {x: 34.5, y: 30}
+      - - {x: -4.075821, y: 101.38867}
+        - {x: -23.07582, y: 101.38867}
+        - {x: -40.07582, y: 79.38867}
+        - {x: -40.07582, y: 17.388672}
+        - {x: -30.07582, y: -4.611328}
+        - {x: 29.92418, y: -4.611328}
+        - {x: 34.92418, y: -1.6113281}
+        - {x: 34.92418, y: 62.38867}
+        - {x: 31.92418, y: 78.38867}
     - name: Char_1
       rect:
         serializedVersion: 2
@@ -81,8 +81,8 @@ TextureImporter:
         y: 82
         width: 21
         height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.8241679, y: 0.91257775}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: Char_2
@@ -92,8 +92,8 @@ TextureImporter:
         y: 42
         width: 32
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4885006, y: -0.010416585}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: Char_3
@@ -103,8 +103,8 @@ TextureImporter:
         y: 11
         width: 23
         height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.2360183, y: 0.8854972}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     outline: []
